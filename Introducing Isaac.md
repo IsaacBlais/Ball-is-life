@@ -1,6 +1,7 @@
 # _**Hola, mi amigo!**_
-Hello, my name is Isaac Conrad Blais, I was born in Ottawa, Ontario. 
-In the following paragraphs, I will mention my interests and hobbies so we can get to know eachother better.
+Hello, my name is Isaac Blais, I was born in Ottawa, Ontario. 
+I currently go to A.Y Jackson secondary school.
+In the following paragraphs, I will talk about my interests and hobbies so we can get to eachother better.
 
 ### _My hobbies include..._
 - Basketball
