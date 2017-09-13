@@ -16,6 +16,4 @@ In the following paragraphs, I will talk about my interests and hobbies so we ca
 
 <img src="http://kanatabasketball.ca/news_images/org_1217/Image/onl_on_white2222.jpg" Alt width=100 height=100>
 
-{Watch this video!}(
-
 I hope that after reading this, you've learned a lot more about me. 
